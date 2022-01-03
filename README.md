@@ -28,7 +28,7 @@ Clone or download this repo:
 
 Go to the project directory
 
-`` cd FB-Messenger-Whatsapp-Discord-message-spammer``
+`` cd WhatsApp-Spam``
 
 Install the requirements:
 
