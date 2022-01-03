@@ -58,7 +58,7 @@ The input field "Friend Name" is the name of the user as it appears on each plat
 
 <p align="center">
 
-  <img src="https://i.imgur.com/jXN5hFp.jpg" width="70%">
+  <img src="68747470733a2f2f692e696d6775722e636f6d2f6a584e356846702e6a7067.jpeg" width="70%">
 
 </p>  
 
