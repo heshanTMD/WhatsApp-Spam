@@ -24,7 +24,7 @@
 
 Clone or download this repo:
 
-`` git clone https://github.com/HenryAlbu/FB-Messenger-Whatsapp-Discord-message-spammer.git``
+`` git clone https://github.com/heshanTMD/WhatsApp-Spam``
 
 Go to the project directory
 
